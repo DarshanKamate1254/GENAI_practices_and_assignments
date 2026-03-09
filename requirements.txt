@@ -1,0 +1,35 @@
+jupyterlab
+numpy
+pandas
+scikit-learn
+seaborn
+transformers
+torch
+langchain
+openai
+sentence-transformers
+langchain_huggingface
+dotenv
+langchain_openai
+langchain_community
+faiss-cpu
+langchain_groq
+langchain-google-genai
+openai-whisper
+pinecone
+pytube
+chromadb>=0.5.5
+google-genai>=0.3.0
+google-api-core>=2.19.1
+groq>=0.11.0
+python-dotenv>=1.0.1
+numpy>=1.26.4
+tqdm>=4.66.4
+ipython>=8.26.0
+streamlit
+
+
+#pip install langchain
+#pip install langchain-community
+#pip install langchain-huggingface
+#pip install langchain-text-splitters
