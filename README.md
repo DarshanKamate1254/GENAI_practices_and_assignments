@@ -41,8 +41,7 @@ These implementations help understand how **real-world AI systems retrieve infor
 ---
 
 ---
-
-## 🔎 Topics Covered
+ Topics Covered
 
 ### Retrieval Augmented Generation (RAG)
 
